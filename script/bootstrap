@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# script/bootstrap: Resolve all dependencies that the application requires to
+#                   run.
+
+set -e
+
+echo "This is the bootstrap script"
