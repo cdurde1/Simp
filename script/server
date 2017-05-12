@@ -4,4 +4,4 @@
 #                locally.
 
 set -e
-echo "Congrtulations, you are now running a local environment."
+echo "This is not meant to be run on a local environment. Congratulaions, you have successfuly implemented strta. Now you can run this project on your local environment!"

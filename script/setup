@@ -4,4 +4,4 @@
 #               back to the initial first unused state.
 
 set -e
-echo "This is the setup script"
+echo "Two for the show"

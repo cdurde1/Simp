@@ -5,4 +5,4 @@
 
 
 set -e
-echo "This is the test script"
+echo "What about five... there is no five..."

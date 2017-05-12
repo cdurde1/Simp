@@ -4,5 +4,4 @@
 #                   run.
 
 set -e
-
-echo "This is the bootstrap script"
+echo "One for the money"

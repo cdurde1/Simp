@@ -3,4 +3,4 @@
 # script/update: Update application to run for its current checkout.
 
 set -e
-echo "This is the update script."
+echo "And four to go"

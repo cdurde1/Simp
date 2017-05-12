@@ -4,4 +4,4 @@
 #                 designed to run on the continuous integration server.
 
 set -e
-echo "This is the build scipt."
+echo "Three to make ready"
