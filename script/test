@@ -1,8 +1,0 @@
-#!/bin/sh
-
-# script/test: Run test suite for application. Optionally pass in a path to an
-#              individual test file to run a single test.
-
-
-set -e
-echo "What about five... there is no five..."
