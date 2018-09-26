@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# script/server: Launch the application and any extra required processes
+#                locally.
+
+set -e
+echo "This is not meant to be run on a local environment. Congratulaions, you have successfuly implemented strta. Now you can run this project on your local environment!"
